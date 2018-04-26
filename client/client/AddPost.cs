@@ -27,7 +27,6 @@ namespace client
             localhost.Service1 server = new localhost.Service1();
             //server.addpost(txtposttitle.Text , txtpostcategory.Text ,txtpostdescription.Text);
             localhost.Post po = new localhost.Post();
-
             po.Title = txtposttitle.Text;
             po.Category = txtpostcategory.Text;
             po.Description = txtpostdescription.Text;
