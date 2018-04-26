@@ -1,0 +1,5 @@
+c:\users\wajid sahib\documents\visual studio 2012\Projects\server\server\bin\server.dll
+c:\users\wajid sahib\documents\visual studio 2012\Projects\server\server\bin\server.pdb
+c:\users\wajid sahib\documents\visual studio 2012\Projects\server\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+c:\users\wajid sahib\documents\visual studio 2012\Projects\server\server\obj\Debug\server.dll
+c:\users\wajid sahib\documents\visual studio 2012\Projects\server\server\obj\Debug\server.pdb
