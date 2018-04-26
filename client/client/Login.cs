@@ -19,6 +19,7 @@ namespace client
 
         private void cmdlogin_Click(object sender, EventArgs e)
         {
+
             bool valid;
             bool isvalid;
             bool adminvalid;
