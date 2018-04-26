@@ -11,3 +11,6 @@ C:\Users\Wajid Sahib\Documents\Visual Studio 2012\Projects\client\client\obj\Deb
 C:\Users\Wajid Sahib\Documents\Visual Studio 2012\Projects\client\client\obj\Debug\client.AddPost.resources
 C:\Users\Wajid Sahib\Documents\Visual Studio 2012\Projects\client\client\obj\Debug\client.AdminApproval.resources
 C:\Users\Wajid Sahib\Documents\Visual Studio 2012\Projects\client\client\obj\Debug\client.Post_Details.resources
+F:\our\client\client\bin\Debug\client.exe.config
+F:\our\client\client\obj\Debug\client.exe
+F:\our\client\client\obj\Debug\client.pdb
